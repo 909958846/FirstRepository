@@ -13,6 +13,11 @@ git push -u origin master		//第一次推送，将本地库的所有内容都推
 
 git push origin master		//将本地库的所有内容都推送到远程库上
 
+git add -A 			//添加所有变化到index, 
+git add -u				//添加修改和删除的文件，不包括新文件
+git add .				//添加新的文件和被修改的文件，不包括删除的文件
+
+
 
 
 
