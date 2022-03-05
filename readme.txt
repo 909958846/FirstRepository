@@ -1,5 +1,10 @@
 git廖雪峰教程
 https://www.liaoxuefeng.com/wiki/896043488029600
+访问远程服务器时需要采用ssh协议，也就是服务需要知道谁在访问，并在服务器上设置访问名单
+在本地电脑获取令牌：也就是这台电脑的信息
+ssh-keygen -t rsa -C "youremail@example.com"
+在服务器设置访问名单：
+点“Add SSH Key”，填上任意Title，在Key文本框里粘贴id_rsa.pub文件的内容
 
 Git is a version control system.
 Git is free software.
