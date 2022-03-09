@@ -1,3 +1,4 @@
+![](C:\Users\jamli\git\FirstRepository\git.png)
 git廖雪峰教程
 https://www.liaoxuefeng.com/wiki/896043488029600
 访问远程服务器时需要采用ssh协议，也就是服务需要知道谁在访问，并在服务器上设置访问名单
